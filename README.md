@@ -28,7 +28,28 @@ The project focuses on understanding how Spring manages beans, dependency inject
 
 ## 📂 Project Structure
 
-
+spring-java-based-configuration
+│
+├── src
+│   └── cs
+│       ├── bean
+│       │   └── Stud.java
+│       │
+│       ├── repo
+│       │   └── Stdrepo.java
+│       │
+│       └── main
+│           └── Springmain.java
+│
+├── screenshots
+│   └── output.png
+│
+├── .settings
+├── bin
+├── .classpath
+├── .project
+├── .gitignore
+└── README.md
 
 ---
 
