@@ -78,7 +78,7 @@ public class AppConfig {
 ## ▶️ How to Clone & Run the Project
 🔹 Clone Repository
 ```bash
-git clone https://github.com/your-username/java-based-configuration.git
+git clone: https://github.com/your-username/java-based-configuration.git
 ```
 ---
 
