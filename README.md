@@ -51,52 +51,49 @@ public class AppConfig {
         return new ServiceClass();
     }
 }
+```
+---
 
-▶️ How to Clone & Run the Project
+## ▶️ How to Clone & Run the Project
 🔹 Clone Repository
+```bash
 git clone https://github.com/your-username/java-based-configuration.git
+```
+---
 
 🔹 Steps to Run
 
-Open Eclipse IDE
+1. Open Eclipse IDE
+2. Click File → Open Projects from File System
+3. Select the cloned folder
+4. Ensure JDK is configured
+5. Run MainApp.java
+6. Check output in console
 
-Click File → Open Projects from File System
+---
 
-Select the cloned folder
+## 🖼️ Screenshots
 
-Ensure JDK is configured
+### 🔹 Console Output
+![Console Output](screenshots/output.png)
 
-Run MainApp.java
+---
 
-Check output in console
+## 🎯 Learning Outcomes
 
-🖼️ Screenshots
-🔹 Project Structure
+- Understanding Spring without XML
+- Bean lifecycle using Java configuration
+- Dependency Injection in Spring
+- Clean project structuring
 
-🔹 Java-Based Configuration Class
-
-🔹 Console Output
-
-📌 Note: Add screenshots inside a screenshots folder in your GitHub repository.
-
-🎯 Learning Outcomes
-
-Understanding Spring without XML
-
-Bean lifecycle using Java configuration
-
-Dependency Injection in Spring
-
-Clean project structuring
+---
 
 👨‍💻 Author
 
 Mithilesh Kumar Mishra
 Java Developer | Spring Framework Learner
 
-🔗 GitHub: https://github.com/your-username
-
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+---
 
 ⭐ Support
 
