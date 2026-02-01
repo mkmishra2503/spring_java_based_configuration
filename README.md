@@ -28,6 +28,7 @@ The project focuses on understanding how Spring manages beans, dependency inject
 
 ## 📂 Project Structure
 
+```text
 spring-java-based-configuration
 │
 ├── src
@@ -50,6 +51,7 @@ spring-java-based-configuration
 ├── .project
 ├── .gitignore
 └── README.md
+```
 
 ---
 
